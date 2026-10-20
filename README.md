@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dreck
 
-<!--
-**dreckieee/dreckieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA / .NET developer based in Quezon City, Philippines. BS Computer Science (UNP). Looking for junior QA, .NET and IT roles.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [VapeShopInventoryAPI](https://github.com/dreckieee/VapeShopInventoryAPI): ASP.NET Core REST API for retail inventory, sales and cash balance tracking. EF Core, SQLite, NUnit integration tests, GitHub Actions CI.
+- [toolshop-playwright-ts](https://github.com/dreckieee/toolshop-playwright-ts): Playwright + TypeScript end-to-end tests. Work in progress, learning in public.
+- [csharp](https://github.com/dreckieee/csharp): 67 C# console apps covering fundamentals, collections, OOP and exception handling.
+
+## Stack
+
+**Working with:** C#, .NET, ASP.NET Core, Entity Framework Core, SQLite, NUnit, GitHub Actions, Git
+
+**Learning:** Playwright, TypeScript
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/dreckieee)
+[Gmail](dreckrjpascual@gmail.com)
