@@ -1,6 +1,6 @@
 # Hi, I'm Dreck
 
-Junior QA / .NET developer based in Quezon City, Philippines. BS Computer Science (UNP). Looking for junior QA, .NET and IT roles.
+Junior QA and .NET developer based in Quezon City, Philippines. Computer Science graduate seeking a junior quality assurance (QA), software testing or .NET developer role.
 
 ## What I'm working on
 
@@ -10,7 +10,7 @@ Junior QA / .NET developer based in Quezon City, Philippines. BS Computer Scienc
 
 ## Stack
 
-**Working with:** C#, .NET, ASP.NET Core, Entity Framework Core, SQLite, NUnit, GitHub Actions, Git
+**Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, API testing, integration testing, manual test case writing, Git, GitHub, GitHub Actions, Linux deployment.
 
 **Learning:** Playwright, TypeScript
 
