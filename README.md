@@ -12,7 +12,7 @@ Junior QA and .NET developer based in Quezon City, Philippines. Computer Science
 
 **Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, API testing, integration testing, manual test case writing, Git, GitHub, GitHub Actions, Linux deployment.
 
-**Learning:** Playwright, TypeScript
+**Learning:** Playwright, TypeScript, Postman
 
 ## Contact
 
