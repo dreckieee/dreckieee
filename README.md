@@ -6,7 +6,7 @@ Junior QA and .NET developer based in Quezon City, Philippines. Computer Science
 
 - [VapeShopInventoryAPI](https://github.com/dreckieee/VapeShopInventoryAPI): ASP.NET Core REST API for retail inventory, sales and cash balance tracking. EF Core, SQLite, NUnit integration tests, GitHub Actions CI.
 - [toolshop-playwright-ts](https://github.com/dreckieee/toolshop-playwright-ts): Playwright + TypeScript end-to-end tests. Work in progress, learning in public.
-- [csharp](https://github.com/dreckieee/csharp): 67 C# console apps covering fundamentals, collections, OOP and exception handling.
+- [csharp](https://github.com/dreckieee/csharp): 68 C# console apps covering fundamentals, collections, OOP and exception handling.
 
 ## Stack
 
