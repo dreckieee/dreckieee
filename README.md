@@ -16,9 +16,9 @@
 
 ## About
 
-I am looking for a junior quality assurance (QA), software testing or .NET developer role. I build and test REST APIs in C#, write bug reports and test cases, and document my design decisions in public.<br>
+I build and test REST APIs in C#, write bug reports and test cases, and document my design decisions in public. Background: hospital IT support and local government administration<br>
 
-<br>**Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, Postman, API testing, integration testing, manual test case writing, bug reporting, Git, GitHub, GitHub Actions, Linux deployment<br>
+**Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, Postman, API testing, integration testing, manual test case writing, bug reporting, Git, GitHub, GitHub Actions, Linux deployment<br>
 **Learning:** Playwright, TypeScript<br>
 
 ## Projects
@@ -26,6 +26,7 @@ I am looking for a junior quality assurance (QA), software testing or .NET devel
 [VapeShopInventoryAPI](https://github.com/dreckieee/VapeShopInventoryAPI): ASP.NET Core REST API for retail inventory, sales and cash balance tracking. EF Core, SQLite, NUnit integration tests, GitHub Actions CI, Postman.<br>
 [csharp](https://github.com/dreckieee/csharp): 68 C# console apps covering fundamentals, collections, OOP and exception handling.<br>
 [toolshop-playwright-ts](https://github.com/dreckieee/toolshop-playwright-ts): Playwright + TypeScript end-to-end tests. Work in progress, learning in public.<br>
+Pharmacy Inventory System: Excel inventory system for 400+ drug items, adopted by the provincial hospital and other district hospitals.
 
 ## Featured: VapeShopInventoryAPI
 
