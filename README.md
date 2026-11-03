@@ -16,7 +16,8 @@
 
 ## About
 
-Computer Science graduate seeking a junior quality assurance (QA), software testing or .NET developer role.<br>
+I am looking for a junior quality assurance (QA), software testing or .NET developer role. I build and test REST APIs in C#, write bug reports and test cases, and document my design decisions in public.<br>
+
 <br>**Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, Postman, API testing, integration testing, manual test case writing, bug reporting, Git, GitHub, GitHub Actions, Linux deployment<br>
 **Learning:** Playwright, TypeScript<br>
 
