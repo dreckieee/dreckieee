@@ -16,15 +16,15 @@
 
 ## About
 
-Computer Science graduate seeking a junior quality assurance (QA), software testing or .NET developer role.
-**Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, Postman, API testing, integration testing, manual test case writing, bug reporting, Git, GitHub, GitHub Actions, Linux deployment
-**Learning:** Playwright, TypeScript
+Computer Science graduate seeking a junior quality assurance (QA), software testing or .NET developer role.<br>
+**Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, Postman, API testing, integration testing, manual test case writing, bug reporting, Git, GitHub, GitHub Actions, Linux deployment<br>
+**Learning:** Playwright, TypeScript<br>
 
 ## What I'm working on
 
-[VapeShopInventoryAPI](https://github.com/dreckieee/VapeShopInventoryAPI): ASP.NET Core REST API for retail inventory, sales and cash balance tracking. EF Core, SQLite, NUnit integration tests, GitHub Actions CI, Postman.
-[csharp](https://github.com/dreckieee/csharp): 68 C# console apps covering fundamentals, collections, OOP and exception handling.
-[toolshop-playwright-ts](https://github.com/dreckieee/toolshop-playwright-ts): Playwright + TypeScript end-to-end tests. Work in progress, learning in public.
+[VapeShopInventoryAPI](https://github.com/dreckieee/VapeShopInventoryAPI): ASP.NET Core REST API for retail inventory, sales and cash balance tracking. EF Core, SQLite, NUnit integration tests, GitHub Actions CI, Postman.<br>
+[csharp](https://github.com/dreckieee/csharp): 68 C# console apps covering fundamentals, collections, OOP and exception handling.<br>
+[toolshop-playwright-ts](https://github.com/dreckieee/toolshop-playwright-ts): Playwright + TypeScript end-to-end tests. Work in progress, learning in public.<br>
 
 ## Featured project: VapeShopInventoryAPI
 
