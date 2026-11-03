@@ -36,10 +36,5 @@ I build and test REST APIs in C#, write test cases and bug reports, and document
 **Learning:** Playwright, TypeScript
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dreckieee&theme=dark&hide_current_streak=true" />
-      <img src="https://streak-stats.demolab.com/?user=dreckieee&theme=default&hide_current_streak=true" alt="GitHub contribution stats" />
-    </picture>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=dreckieee&theme=dark" alt="GitHub Streak" /></a>
 </p>
