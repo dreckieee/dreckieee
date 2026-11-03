@@ -35,7 +35,3 @@ I build and test REST APIs in C#, write test cases and bug reports, and document
 **Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, Postman, API testing, integration testing, manual test case writing, bug reporting, Git, GitHub, GitHub Actions, Linux deployment
 
 **Learning:** Playwright, TypeScript
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=dreckieee&theme=dark" alt="GitHub Streak" /></a>
-</p>
