@@ -16,11 +16,15 @@
 
 ## About
 
-I am looking for a junior quality assurance (QA), software testing or .NET developer role. I build and test REST APIs in C#, write bug reports and test cases, and document my design decisions in public.
+Computer Science graduate seeking a junior quality assurance (QA), software testing or .NET developer role.
+**Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, Postman, API testing, integration testing, manual test case writing, bug reporting, Git, GitHub, GitHub Actions, Linux deployment
+**Learning:** Playwright, TypeScript
 
-- Microsoft Foundational C# Certification (June 2026)
-- 68 C# console apps, an ASP.NET Core API with automated tests and CI, and a Playwright project in progress
-- Before tech: administrative and IT support work, including an Excel inventory system adopted by a provincial hospital and other district hospitals
+## What I'm working on
+
+[VapeShopInventoryAPI](https://github.com/dreckieee/VapeShopInventoryAPI): ASP.NET Core REST API for retail inventory, sales and cash balance tracking. EF Core, SQLite, NUnit integration tests, GitHub Actions CI, Postman.
+[csharp](https://github.com/dreckieee/csharp): 68 C# console apps covering fundamentals, collections, OOP and exception handling.
+[toolshop-playwright-ts](https://github.com/dreckieee/toolshop-playwright-ts): Playwright + TypeScript end-to-end tests. Work in progress, learning in public.
 
 ## Featured project: VapeShopInventoryAPI
 
@@ -36,16 +40,7 @@ A REST API for a small retail shop: products, sales, expenses, restocking, settl
 
 [View the repository](https://github.com/dreckieee/VapeShopInventoryAPI)
 
-## Other work
-
-- [toolshop-playwright-ts](https://github.com/dreckieee/toolshop-playwright-ts): Playwright + TypeScript end-to-end tests on a public practice shop. Work in progress. Includes a [sample bug report](https://github.com/dreckieee/toolshop-playwright-ts/blob/main/docs/bug-reports/BR-001-decimal-quantity-line-total.md).
-- [csharp](https://github.com/dreckieee/csharp): 68 C# console apps covering fundamentals, collections, OOP and exception handling.
-
-## Stack
-
-**Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, Postman, API testing, integration testing, manual test case writing, bug reporting, Git, GitHub, GitHub Actions, Linux deployment
-
-**Learning:** Playwright, TypeScript
+---
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=dreckieee&theme=dark" alt="GitHub Streak" /></a>
