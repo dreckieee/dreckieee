@@ -18,3 +18,6 @@ Junior QA and .NET developer based in Quezon City, Philippines. Computer Science
 
 [LinkedIn](https://linkedin.com/in/dreckieee)
 [Gmail](dreckrjpascual@gmail.com)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dreckieee&theme=dark)](https://git.io/streak-stats)
