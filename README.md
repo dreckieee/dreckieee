@@ -18,8 +18,8 @@
 
 I build and test REST APIs in C#, write test cases and bug reports, and document my design decisions in public. I am looking for a junior quality assurance (QA), software testing or .NET developer role.
 
-- Microsoft Foundational C# Certification (June 2026)
-- Earlier work: administrative and IT support roles, including an Excel inventory system adopted by a provincial hospital and other district hospitals
+- Earlier work: administrative and IT support roles, including an Excel inventory system (400+ drug items with multiple brands each, adopted by the provincial hospital and other district hospitals)
+- Career Service Professional (Rating: 93.40%)
 
 ## Projects
 
