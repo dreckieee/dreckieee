@@ -26,10 +26,11 @@ I build and test REST APIs in C#, write test cases and bug reports, and document
 | Project | What it is | Highlights |
 |---|---|---|
 | [VapeShopInventoryAPI](https://github.com/dreckieee/VapeShopInventoryAPI) | REST API for a small retail shop: products, sales, expenses, restocking, settlements, and a cash balance with history | ASP.NET Core, EF Core, SQLite. 108 automated NUnit tests. GitHub Actions CI. Postman collection for my local API (15 requests, 36 checks). Authentication is next |
+| [csharp](https://github.com/dreckieee/csharp) | 68 C# console apps | fundamentals through OOP, inheritance, polymorphism, abstract class architecture, generics, collections, methods, and error handling |
 | [toolshop-playwright-ts](https://github.com/dreckieee/toolshop-playwright-ts) | End-to-end tests on a public practice shop | Playwright + TypeScript. Early stage, one passing test. Includes a [sample bug report](https://github.com/dreckieee/toolshop-playwright-ts/blob/main/docs/bug-reports/BR-001-decimal-quantity-line-total.md) |
-| [csharp](https://github.com/dreckieee/csharp) | 68 C# console apps | Fundamentals, collections, OOP and exception handling |
 
-## Stack
+
+## Tech Stack
 
 **Working with:** C#, .NET 10, ASP.NET Core, Entity Framework Core, SQL, SQLite, REST API, Swagger, NUnit, Postman, API testing, integration testing, manual test case writing, bug reporting, Git, GitHub, GitHub Actions, Linux deployment
 
